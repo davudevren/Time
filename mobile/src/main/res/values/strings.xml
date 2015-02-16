@@ -3,5 +3,6 @@
 
     <string name="app_name">Time</string>
     <string name="title_meeting_detail">Meeting Detail</string>
+    <string name="test">test</string>
 
 </resources>
